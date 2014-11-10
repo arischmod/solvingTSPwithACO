@@ -1,9 +1,9 @@
 solvingTSPwithACO
 ==========================================
 
-solving the famous Traveller Salesman Problem (TSP) problem
+Solving the famous Traveller Salesman Problem (TSP)
 using ANT swarm intelligence ->  Ant Colony Optimisations (ACO) with JAVA
-Algorithm used: AS, EAS and MMAS
+Algorithms used: AS, EAS and MMAS
 
 made as a 6 month project at Roskilde University
 
