@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: /home/aris/IdeaProjects/AsTSP/src/
+Main-Class: AsTSP
+

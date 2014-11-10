@@ -1,0 +1,33 @@
+input: number of ants, fileName, activateLocalSearch(0 or 1)
+sugested inputs: 10 d198.tsp 0
+parameters:
+a=1
+b=5
+
+Benchmarks for d198 whith ants=10:
+
+best tour found: 
+Best tour lenght    number of interations    gap from the optimal   
+Best tour length=17912  after: 23   gap = 13.510773130544994%
+
+with local search:
+Best tour length=15853  after: 382   gap = 0.46261089987325726%
+
+Benchmarks for d198 whith ants=198:
+
+best tour found: 
+Best tour lenght    number of interations    gap from the optimal   
+Best tour length=17221  after: 758   gap = 9.131812420785804%
+
+with local search:
+Best tour length=15834  after: 135   gap = 0.34220532319391633%
+
+Benchmarks for lu980 whith ants=10:
+
+best tour found: 
+Best tour lenght    number of interations    gap from the optimal   
+Best tour length=15190  after: 1484   gap = 33.95061728395062%
+
+with local search:
+Best tour length=11817  after: 81   gap = 4.2063492063492065%
+
